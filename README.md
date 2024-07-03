@@ -14,6 +14,8 @@ Star History charts can be useful for:
 
 Feel free to contribute by adding new comparisons or updating existing ones. Your contributions are welcome!
 
+**Note:** To use Star History and view these charts, you need to add your [GitHub personal access token](https://github.com/settings/tokens) on the Star History website.
+
 ## Charts
 
 <!-- START_CHARTS -->
