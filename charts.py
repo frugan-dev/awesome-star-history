@@ -2,10 +2,11 @@ import yaml
 import urllib.parse
 
 def generate_chart_markdown(category, subcategory, repos, is_first=False):
-    repo_list = ",".join(repos)
-    encoded_repos = urllib.parse.quote(repo_list)
+    api_repo_list = ",".join(repos)
+    url_repo_list = "&".join(repos)
+    encoded_repos = urllib.parse.quote(api_repo_list)
     chart_url = f"https://api.star-history.com/svg?repos={encoded_repos}&type=Date"
-    star_history_url = f"https://star-history.com/#{repo_list}&Date"
+    star_history_url = f"https://star-history.com/#{url_repo_list}&Date"
     
     chart_md = f"""
 [![Star History Chart]({chart_url})]({star_history_url})
