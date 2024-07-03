@@ -12,7 +12,7 @@ Star History charts can be useful for:
 - Comparing the long-term sustainability of open-source projects
 - Assisting in technology choice decisions for new projects
 
-**Note:** To use Star History and view these charts, you need to add your GitHub API key on the Star History website.
+**Note:** To use Star History and view these charts, you need to add your [GitHub personal access token](https://github.com/settings/tokens) on the Star History website.
 
 Feel free to contribute by adding new comparisons or updating existing ones. Your contributions are welcome!
 
