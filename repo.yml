@@ -226,6 +226,21 @@ Testing and Automation Tools:
     - puppeteer/puppeteer
     - SeleniumHQ/selenium
 
+Traditional CMS:
+  Most Popular:
+    - drupal/drupal
+    - wordpress/wordpress
+  Laravel:
+    - area17/twill
+    - filamentphp/filament
+    - LavaLite/cms
+    - microweber/microweber
+    - octobercms/october
+    - pyrocms/pyrocms
+    - statamic/cms
+    - typicms/base
+    - wintercms/winter
+
 Version Managers:
   Most Popular:
     - asdf-vm/asdf

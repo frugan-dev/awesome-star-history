@@ -290,6 +290,22 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
+### Traditional CMS
+
+<details>
+<summary>Most Popular</summary>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=drupal/drupal%2Cwordpress/wordpress&type=Date)](https://star-history.com/#drupal/drupal&wordpress/wordpress&Date)
+
+</details>
+
+<details>
+<summary>Laravel</summary>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=area17/twill%2Cfilamentphp/filament%2CLavaLite/cms%2Cmicroweber/microweber%2Coctobercms/october%2Cpyrocms/pyrocms%2Cstatamic/cms%2Ctypicms/base%2Cwintercms/winter&type=Date)](https://star-history.com/#area17/twill&filamentphp/filament&LavaLite/cms&microweber/microweber&octobercms/october&pyrocms/pyrocms&statamic/cms&typicms/base&wintercms/winter&Date)
+
+</details>
+
 ### Version Managers
 
 <details>
