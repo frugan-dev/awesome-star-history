@@ -22,7 +22,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Animation Libraries
 
-<a id="#animation-libraries-most-popular"></a>
+<a name="animation-libraries-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -30,7 +30,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#animation-libraries-all"></a>
+<a name="animation-libraries-all"></a>
 <details>
 <summary>All</summary>
 
@@ -40,7 +40,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### API Frameworks
 
-<a id="#api-frameworks-most-popular"></a>
+<a name="api-frameworks-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -48,7 +48,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#api-frameworks-all"></a>
+<a name="api-frameworks-all"></a>
 <details>
 <summary>All</summary>
 
@@ -58,7 +58,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Build Tools and Bundlers
 
-<a id="#build-tools-and-bundlers-most-popular"></a>
+<a name="build-tools-and-bundlers-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -66,7 +66,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#build-tools-and-bundlers-all"></a>
+<a name="build-tools-and-bundlers-all"></a>
 <details>
 <summary>All</summary>
 
@@ -76,7 +76,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Code Editors and IDEs
 
-<a id="#code-editors-and-ides-most-popular"></a>
+<a name="code-editors-and-ides-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -84,7 +84,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#code-editors-and-ides-all"></a>
+<a name="code-editors-and-ides-all"></a>
 <details>
 <summary>All</summary>
 
@@ -94,7 +94,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### CSS Preprocessors
 
-<a id="#css-preprocessors-most-popular"></a>
+<a name="css-preprocessors-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -102,7 +102,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#css-preprocessors-all"></a>
+<a name="css-preprocessors-all"></a>
 <details>
 <summary>All</summary>
 
@@ -112,7 +112,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Database and Backend-as-a-Service
 
-<a id="#database-and-backend-as-a-service-most-popular"></a>
+<a name="database-and-backend-as-a-service-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -120,7 +120,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#database-and-backend-as-a-service-all"></a>
+<a name="database-and-backend-as-a-service-all"></a>
 <details>
 <summary>All</summary>
 
@@ -130,7 +130,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### E-commerce Platforms
 
-<a id="#e-commerce-platforms-most-popular"></a>
+<a name="e-commerce-platforms-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -138,7 +138,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#e-commerce-platforms-headless"></a>
+<a name="e-commerce-platforms-headless"></a>
 <details>
 <summary>Headless</summary>
 
@@ -146,7 +146,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#e-commerce-platforms-laravel"></a>
+<a name="e-commerce-platforms-laravel"></a>
 <details>
 <summary>Laravel</summary>
 
@@ -154,7 +154,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#e-commerce-platforms-traditional"></a>
+<a name="e-commerce-platforms-traditional"></a>
 <details>
 <summary>Traditional</summary>
 
@@ -164,7 +164,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Headless CMS and Backend Frameworks
 
-<a id="#headless-cms-and-backend-frameworks-most-popular"></a>
+<a name="headless-cms-and-backend-frameworks-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -172,7 +172,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#headless-cms-and-backend-frameworks-all"></a>
+<a name="headless-cms-and-backend-frameworks-all"></a>
 <details>
 <summary>All</summary>
 
@@ -182,7 +182,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Mail Server
 
-<a id="#mail-server-most-popular"></a>
+<a name="mail-server-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -190,7 +190,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#mail-server-all"></a>
+<a name="mail-server-all"></a>
 <details>
 <summary>All</summary>
 
@@ -200,7 +200,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Mobile App Frameworks
 
-<a id="#mobile-app-frameworks-most-popular"></a>
+<a name="mobile-app-frameworks-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -208,7 +208,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#mobile-app-frameworks-all"></a>
+<a name="mobile-app-frameworks-all"></a>
 <details>
 <summary>All</summary>
 
@@ -218,7 +218,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### PaaS and Deployment Tools
 
-<a id="#paas-and-deployment-tools-most-popular"></a>
+<a name="paas-and-deployment-tools-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -226,7 +226,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#paas-and-deployment-tools-all"></a>
+<a name="paas-and-deployment-tools-all"></a>
 <details>
 <summary>All</summary>
 
@@ -236,7 +236,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Package Managers
 
-<a id="#package-managers-most-popular"></a>
+<a name="package-managers-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -244,7 +244,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#package-managers-all"></a>
+<a name="package-managers-all"></a>
 <details>
 <summary>All</summary>
 
@@ -254,7 +254,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Parallax and Scroll Libraries
 
-<a id="#parallax-and-scroll-libraries-most-popular"></a>
+<a name="parallax-and-scroll-libraries-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -262,7 +262,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#parallax-and-scroll-libraries-all"></a>
+<a name="parallax-and-scroll-libraries-all"></a>
 <details>
 <summary>All</summary>
 
@@ -272,7 +272,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Proxy and Load-Balancing Tools
 
-<a id="#proxy-and-load-balancing-tools-most-popular"></a>
+<a name="proxy-and-load-balancing-tools-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -280,7 +280,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#proxy-and-load-balancing-tools-all"></a>
+<a name="proxy-and-load-balancing-tools-all"></a>
 <details>
 <summary>All</summary>
 
@@ -290,7 +290,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Search and File Finding Tools
 
-<a id="#search-and-file-finding-tools-most-popular"></a>
+<a name="search-and-file-finding-tools-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -298,7 +298,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#search-and-file-finding-tools-all"></a>
+<a name="search-and-file-finding-tools-all"></a>
 <details>
 <summary>All</summary>
 
@@ -308,7 +308,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Testing and Automation Tools
 
-<a id="#testing-and-automation-tools-most-popular"></a>
+<a name="testing-and-automation-tools-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -316,7 +316,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#testing-and-automation-tools-all"></a>
+<a name="testing-and-automation-tools-all"></a>
 <details>
 <summary>All</summary>
 
@@ -326,7 +326,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Traditional CMS
 
-<a id="#traditional-cms-most-popular"></a>
+<a name="traditional-cms-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -334,7 +334,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#traditional-cms-laravel"></a>
+<a name="traditional-cms-laravel"></a>
 <details>
 <summary>Laravel</summary>
 
@@ -344,7 +344,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Version Managers
 
-<a id="#version-managers-most-popular"></a>
+<a name="version-managers-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -352,7 +352,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#version-managers-all"></a>
+<a name="version-managers-all"></a>
 <details>
 <summary>All</summary>
 
@@ -362,7 +362,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Web-Frameworks and Libraries
 
-<a id="#web-frameworks-and-libraries-most-popular"></a>
+<a name="web-frameworks-and-libraries-most-popular"></a>
 <details>
 <summary>Most Popular</summary>
 
@@ -370,7 +370,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#web-frameworks-and-libraries-backend"></a>
+<a name="web-frameworks-and-libraries-backend"></a>
 <details>
 <summary>Backend</summary>
 
@@ -378,7 +378,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#web-frameworks-and-libraries-frontend"></a>
+<a name="web-frameworks-and-libraries-frontend"></a>
 <details>
 <summary>Frontend</summary>
 
@@ -386,7 +386,7 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 </details>
 
-<a id="#web-frameworks-and-libraries-full-stack"></a>
+<a name="web-frameworks-and-libraries-full-stack"></a>
 <details>
 <summary>Full-Stack</summary>
 

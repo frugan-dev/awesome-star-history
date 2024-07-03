@@ -8,14 +8,14 @@ def generate_chart_markdown(category, subcategory, repos, is_first=False):
     chart_url = f"https://api.star-history.com/svg?repos={encoded_repos}&type=Date"
     star_history_url = f"https://star-history.com/#{url_repo_list}&Date"
     
-    anchor_id = f"{category.lower().replace(' ', '-')}-{subcategory.lower().replace(' ', '-')}"
+    anchor = f"{category.lower().replace(' ', '-')}-{subcategory.lower().replace(' ', '-')}"
     
     chart_md = f"""
 [![Star History Chart]({chart_url})]({star_history_url})
 """
     
     details = f"""
-<a id="#{anchor_id}"></a>
+<a name="{anchor}"></a>
 <details>
 <summary>{subcategory}</summary>
 {chart_md}
