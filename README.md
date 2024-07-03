@@ -16,61 +16,331 @@ Star History charts can be useful for:
 
 Feel free to contribute by adding new comparisons or updating existing ones. Your contributions are welcome!
 
-## Categories
+## Charts
 
-### Version Managers
-- [nvm-sh/nvm vs asdf-vm/asdf vs moovweb/gvm vs rbenv/rbenv vs pyenv/pyenv vs Schniz/fnm vs jenv/jenv vs jdx/mise](https://star-history.com/#nvm-sh/nvm&asdf-vm/asdf&moovweb/gvm&rbenv/rbenv&pyenv/pyenv&Schniz/fnm&jenv/jenv&jdx/mise&Date)
-
-### Package Managers
-- [yarnpkg/berry vs pnpm/pnpm vs npm/cli vs oven-sh/bun vs denoland/deno vs nodejs/node](https://star-history.com/#yarnpkg/berry&pnpm/pnpm&npm/cli&oven-sh/bun&denoland/deno&nodejs/node&Date)
-
-### Web Frameworks and Libraries
-- [koajs/koa vs fastify/fastify vs expressjs/express vs nestjs/nest vs hapijs/hapi vs derbyjs/derby vs balderdashy/sails vs meteor/meteor vs vercel/next.js vs alpinejs/alpine vs bigskysoftware/htmx vs uikit/uikit vs quasarframework/quasar vs ngrx/platform vs reduxjs/redux vs BuilderIO/qwik vs sveltejs/svelte](https://star-history.com/#koajs/koa&fastify/fastify&expressjs/express&nestjs/nest&hapijs/hapi&derbyjs/derby&balderdashy/sails&meteor/meteor&vercel/next.js&alpinejs/alpine&bigskysoftware/htmx&uikit/uikit&quasarframework/quasar&ngrx/platform&reduxjs/redux&BuilderIO/qwik&sveltejs/svelte&Date)
-
-### Mobile App Frameworks
-- [flutter/flutter vs facebook/react-native vs xamarin/xamarin-macios vs ionic-team/ionic-framework vs apache/cordova vs quasarframework/quasar](https://star-history.com/#flutter/flutter&facebook/react-native&xamarin/xamarin-macios&ionic-team/ionic-framework&apache/cordova&quasarframework/quasar&Date)
-
-### Build Tools and Bundlers
-- [parcel-bundler/parcel vs webpack/webpack vs vitejs/vite vs rollup/rollup vs gulpjs/gulp vs gruntjs/grunt vs evanw/esbuild](https://star-history.com/#parcel-bundler/parcel&webpack/webpack&vitejs/vite&rollup/rollup&gulpjs/gulp&gruntjs/grunt&evanw/esbuild&Date)
-
-### E-commerce Platforms
-- [aimeos/aimeos-laravel vs bagisto/bagisto vs avored/laravel-ecommerce vs medusajs/medusa vs reactioncommerce/reaction vs magento/magento2 vs solidusio/solidus vs spree/spree vs vendure-ecommerce/vendure vs thelia/thelia vs woocommerce/woocommerce](https://star-history.com/#aimeos/aimeos-laravel&bagisto/bagisto&avored/laravel-ecommerce&medusajs/medusa&reactioncommerce/reaction&magento/magento2&solidusio/solidus&spree/spree&vendure-ecommerce/vendure&thelia/thelia&woocommerce/woocommerce&Date)
-
-### CSS Preprocessors
-- [sass/sass vs postcss/postcss vs less/less.js vs stylus/stylus](https://star-history.com/#sass/sass&postcss/postcss&less/less.js&stylus/stylus&Date)
-
-### Code Editors and IDEs
-- [atom/atom vs adobe/brackets vs vim/vim vs eclipse/pdt vs Komodo/KomodoEdit vs apache/netbeans vs eclipse/che vs eranif/codelite vs soft/vscode](https://star-history.com/#atom/atom&adobe/brackets&vim/vim&eclipse/pdt&Komodo/KomodoEdit&apache/netbeans&eclipse/che&eranif/codelite&soft/vscode&Date)
+<!-- START_CHARTS -->
 
 ### Animation Libraries
-- [motiondivision/motionone vs framer/motion vs greensock/GSAP vs juliangarnier/anime vs visionmedia/move.js vs hrivingKings/animo vs d3/d3 vs Famous/engine](https://star-history.com/#motiondivision/motionone&framer/motion&greensock/GSAP&juliangarnier/anime&visionmedia/move.js&hrivingKings/animo&d3/d3&Famous/engine&Date)
 
-### Parallax and Scroll Libraries
-- [dixonandmoe/rellax vs geosigno/simpleParallax.js vs nk-o/jarallax vs ChrisCavs/rallax.js vs electerious/basicScroll vs janpaepke/ScrollMagic](https://star-history.com/#dixonandmoe/rellax&geosigno/simpleParallax.js&nk-o/jarallax&ChrisCavs/rallax.js&electerious/basicScroll&janpaepke/ScrollMagic&Date)
+#### Most Popular
 
-### PaaS and Deployment Tools
-- [caprover/caprover vs cloudpanel-io/cloudpanel-ce vs cloud-ark/kubeplus vs harvester/harvester vs kubero-dev/kubero vs coollabsio/coolify vs dokku/dokku vs appwrite/appwrite vs openfaas/faas vs localstack/localstack vs metrue/fx vs loft-sh/devpod](https://star-history.com/#caprover/caprover&cloudpanel-io/cloudpanel-ce&cloud-ark/kubeplus&harvester/harvester&kubero-dev/kubero&coollabsio/coolify&dokku/dokku&appwrite/appwrite&openfaas/faas&localstack/localstack&metrue/fx&loft-sh/devpod&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=framer/motion%2Cgreensock/GSAP%2Cjuliangarnier/anime&type=Date)](https://star-history.com/#framer/motion,greensock/GSAP,juliangarnier/anime&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=d3/d3%2CFamous/engine%2Cframer/motion%2Cgreensock/GSAP%2ChrivingKings/animo%2Cjuliangarnier/anime%2Cmotiondivision/motionone%2Cvisionmedia/move.js&type=Date)](https://star-history.com/#d3/d3,Famous/engine,framer/motion,greensock/GSAP,hrivingKings/animo,juliangarnier/anime,motiondivision/motionone,visionmedia/move.js&Date)
+
+</details>
 
 ### API Frameworks
-- [grpc/grpc vs tiangolo/fastapi vs trpc/trpc](https://star-history.com/#grpc/grpc&tiangolo/fastapi&trpc/trpc&Date)
 
-### Search and File Finding Tools
-- [BurntSushi/ripgrep vs beyondgrep/ack3 vs junegunn/fzf vs ggreer/the_silver_searcher vs sharkdp/fd](https://star-history.com/#BurntSushi/ripgrep&beyondgrep/ack3&junegunn/fzf&ggreer/the_silver_searcher&sharkdp/fd&Date)
+#### Most Popular
 
-### Proxy and Load Balancing Tools
-- [traefik/traefik vs caddyserver/caddy vs envoyproxy/envoy vs haproxy/haproxy vs NginxProxyManager/nginx-proxy-manager vs tinyproxy/tinyproxy vs flomesh-io/pipy vs umputun/reproxy vs linuxserver/docker-swag](https://star-history.com/#traefik/traefik&caddyserver/caddy&envoyproxy/envoy&haproxy/haproxy&NginxProxyManager/nginx-proxy-manager&tinyproxy/tinyproxy&flomesh-io/pipy&umputun/reproxy&linuxserver/docker-swag&Date)
 
-### Mail Server Solutions
-- [docker-mailserver/docker-mailserver vs Mailu/Mailu vs mailcow/mailcow-dockerized vs mail-in-a-box/mailinabox vs iredmail/iRedMail vs modoboa/modoboa vs postalserver/postal vs stalwartlabs/mail-server vs nodemailer/wildduck](https://star-history.com/#docker-mailserver/docker-mailserver&Mailu/Mailu&mailcow/mailcow-dockerized&mail-in-a-box/mailinabox&iredmail/iRedMail&modoboa/modoboa&postalserver/postal&stalwartlabs/mail-server&nodemailer/wildduck&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=grpc/grpc%2Ctiangolo/fastapi&type=Date)](https://star-history.com/#grpc/grpc,tiangolo/fastapi&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=grpc/grpc%2Ctiangolo/fastapi%2Ctrpc/trpc&type=Date)](https://star-history.com/#grpc/grpc,tiangolo/fastapi,trpc/trpc&Date)
+
+</details>
+
+### Build Tools and Bundlers
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=evanw/esbuild%2Cvitejs/vite%2Cwebpack/webpack&type=Date)](https://star-history.com/#evanw/esbuild,vitejs/vite,webpack/webpack&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=evanw/esbuild%2Cgulpjs/gulp%2Cgruntjs/grunt%2Cparcel-bundler/parcel%2Crollup/rollup%2Cvitejs/vite%2Cwebpack/webpack&type=Date)](https://star-history.com/#evanw/esbuild,gulpjs/gulp,gruntjs/grunt,parcel-bundler/parcel,rollup/rollup,vitejs/vite,webpack/webpack&Date)
+
+</details>
+
+### Code Editors and IDEs
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=atom/atom%2Csoft/vscode%2Cvim/vim&type=Date)](https://star-history.com/#atom/atom,soft/vscode,vim/vim&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=adobe/brackets%2Capache/netbeans%2Catom/atom%2Ceclipse/che%2Ceclipse/pdt%2Ceranif/codelite%2CKomodo/KomodoEdit%2Csoft/vscode%2Cvim/vim&type=Date)](https://star-history.com/#adobe/brackets,apache/netbeans,atom/atom,eclipse/che,eclipse/pdt,eranif/codelite,Komodo/KomodoEdit,soft/vscode,vim/vim&Date)
+
+</details>
+
+### CSS Preprocessors
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=postcss/postcss%2Csass/sass&type=Date)](https://star-history.com/#postcss/postcss,sass/sass&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=less/less.js%2Cpostcss/postcss%2Csass/sass%2Cstylus/stylus&type=Date)](https://star-history.com/#less/less.js,postcss/postcss,sass/sass,stylus/stylus&Date)
+
+</details>
 
 ### Database and Backend-as-a-Service
-- [supabase/supabase vs parse-community/parse-server vs kuzzleio/kuzzle vs back4app/parse-server vs mongodb/mongo vs redis/redis vs arangodb/arangodb](https://star-history.com/#supabase/supabase&parse-community/parse-server&kuzzleio/kuzzle&back4app/parse-server&mongodb/mongo&redis/redis&arangodb/arangodb&Date)
 
-### Testing and Automation Tools
-- [cypress-io/cypress vs keploy/keploy vs puppeteer/puppeteer vs nightwatchjs/nightwatch vs laravel/dusk vs AutomaApp/automa vs SeleniumHQ/selenium vs DevExpress/testcafe vs microsoft/playwright](https://star-history.com/#cypress-io/cypress&keploy/keploy&puppeteer/puppeteer&nightwatchjs/nightwatch&laravel/dusk&AutomaApp/automa&SeleniumHQ/selenium&DevExpress/testcafe&microsoft/playwright&Date)
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mongodb/mongo%2Credis/redis%2Csupabase/supabase&type=Date)](https://star-history.com/#mongodb/mongo,redis/redis,supabase/supabase&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=arangodb/arangodb%2Cback4app/parse-server%2Ckuzzleio/kuzzle%2Cmongodb/mongo%2Cparse-community/parse-server%2Credis/redis%2Csupabase/supabase&type=Date)](https://star-history.com/#arangodb/arangodb,back4app/parse-server,kuzzleio/kuzzle,mongodb/mongo,parse-community/parse-server,redis/redis,supabase/supabase&Date)
+
+</details>
+
+### E-commerce Platforms
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=magento/magento2%2Cmedusajs/medusa%2Csaleor/saleor%2Cspree/spree%2Cwoocommerce/woocommerce&type=Date)](https://star-history.com/#magento/magento2,medusajs/medusa,saleor/saleor,spree/spree,woocommerce/woocommerce&Date)
+
+
+<details>
+<summary>Headless</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=medusajs/medusa%2Creactioncommerce/reaction%2Csaleor/saleor%2Cvendure-ecommerce/vendure&type=Date)](https://star-history.com/#medusajs/medusa,reactioncommerce/reaction,saleor/saleor,vendure-ecommerce/vendure&Date)
+
+</details>
+
+<details>
+<summary>Laravel</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aimeos/aimeos-laravel%2Cavored/laravel-ecommerce%2Cbagisto/bagisto&type=Date)](https://star-history.com/#aimeos/aimeos-laravel,avored/laravel-ecommerce,bagisto/bagisto&Date)
+
+</details>
+
+<details>
+<summary>Traditional</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=magento/magento2%2Csolidusio/solidus%2Cspree/spree%2Cthelia/thelia%2Cwoocommerce/woocommerce&type=Date)](https://star-history.com/#magento/magento2,solidusio/solidus,spree/spree,thelia/thelia,woocommerce/woocommerce&Date)
+
+</details>
 
 ### Headless CMS and Backend Frameworks
-- [strapi/strapi vs appwrite/appwrite vs amplication/amplication vs directus/directus vs hasura/graphql-engine vs keystonejs/keystone](https://star-history.com/#strapi/strapi&appwrite/appwrite&amplication/amplication&directus/directus&hasura/graphql-engine&keystonejs/keystone&Date)
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=directus/directus%2Chasura/graphql-engine%2Cstrapi/strapi&type=Date)](https://star-history.com/#directus/directus,hasura/graphql-engine,strapi/strapi&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=amplication/amplication%2Cappwrite/appwrite%2Cdirectus/directus%2Chasura/graphql-engine%2Ckeystonejs/keystone%2Cstrapi/strapi&type=Date)](https://star-history.com/#amplication/amplication,appwrite/appwrite,directus/directus,hasura/graphql-engine,keystonejs/keystone,strapi/strapi&Date)
+
+</details>
+
+### Mail Server
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=docker-mailserver/docker-mailserver%2Cmail-in-a-box/mailinabox&type=Date)](https://star-history.com/#docker-mailserver/docker-mailserver,mail-in-a-box/mailinabox&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=docker-mailserver/docker-mailserver%2Ciredmail/iRedMail%2Cmailcow/mailcow-dockerized%2Cmail-in-a-box/mailinabox%2CMailu/Mailu%2Cmodoboa/modoboa%2Cnodemailer/wildduck%2Cpostalserver/postal%2Cstalwartlabs/mail-server&type=Date)](https://star-history.com/#docker-mailserver/docker-mailserver,iredmail/iRedMail,mailcow/mailcow-dockerized,mail-in-a-box/mailinabox,Mailu/Mailu,modoboa/modoboa,nodemailer/wildduck,postalserver/postal,stalwartlabs/mail-server&Date)
+
+</details>
+
+### Mobile App Frameworks
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=facebook/react-native%2Cflutter/flutter&type=Date)](https://star-history.com/#facebook/react-native,flutter/flutter&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=apache/cordova%2Cfacebook/react-native%2Cflutter/flutter%2Cionic-team/ionic-framework%2Cquasarframework/quasar%2Cxamarin/xamarin-macios&type=Date)](https://star-history.com/#apache/cordova,facebook/react-native,flutter/flutter,ionic-team/ionic-framework,quasarframework/quasar,xamarin/xamarin-macios&Date)
+
+</details>
+
+### PaaS and Deployment Tools
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=appwrite/appwrite%2Cdokku/dokku%2Clocalstack/localstack&type=Date)](https://star-history.com/#appwrite/appwrite,dokku/dokku,localstack/localstack&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=appwrite/appwrite%2Ccaprover/caprover%2Ccloud-ark/kubeplus%2Ccloudpanel-io/cloudpanel-ce%2Ccoollabsio/coolify%2Cdokku/dokku%2Charvester/harvester%2Ckubero-dev/kubero%2Cloft-sh/devpod%2Clocalstack/localstack%2Cmetrue/fx%2Copenfaas/faas&type=Date)](https://star-history.com/#appwrite/appwrite,caprover/caprover,cloud-ark/kubeplus,cloudpanel-io/cloudpanel-ce,coollabsio/coolify,dokku/dokku,harvester/harvester,kubero-dev/kubero,loft-sh/devpod,localstack/localstack,metrue/fx,openfaas/faas&Date)
+
+</details>
+
+### Package Managers
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=npm/cli%2Cpnpm/pnpm%2Cyarnpkg/berry&type=Date)](https://star-history.com/#npm/cli,pnpm/pnpm,yarnpkg/berry&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=denoland/deno%2Cnodejs/node%2Cnpm/cli%2Coven-sh/bun%2Cpnpm/pnpm%2Cyarnpkg/berry&type=Date)](https://star-history.com/#denoland/deno,nodejs/node,npm/cli,oven-sh/bun,pnpm/pnpm,yarnpkg/berry&Date)
+
+</details>
+
+### Parallax and Scroll Libraries
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dixonandmoe/rellax%2Cjanpaepke/ScrollMagic&type=Date)](https://star-history.com/#dixonandmoe/rellax,janpaepke/ScrollMagic&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChrisCavs/rallax.js%2Cdixonandmoe/rellax%2Celecterious/basicScroll%2Cgeosigno/simpleParallax.js%2Cjanpaepke/ScrollMagic%2Cnk-o/jarallax&type=Date)](https://star-history.com/#ChrisCavs/rallax.js,dixonandmoe/rellax,electerious/basicScroll,geosigno/simpleParallax.js,janpaepke/ScrollMagic,nk-o/jarallax&Date)
+
+</details>
+
+### Proxy and Load-Balancing Tools
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=caddyserver/caddy%2Cenvoyproxy/envoy%2Ctraefik/traefik&type=Date)](https://star-history.com/#caddyserver/caddy,envoyproxy/envoy,traefik/traefik&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=caddyserver/caddy%2Cenvoyproxy/envoy%2Cflomesh-io/pipy%2Chaproxy/haproxy%2Clinuxserver/docker-swag%2CNginxProxyManager/nginx-proxy-manager%2Ctinyproxy/tinyproxy%2Ctraefik/traefik%2Cumputun/reproxy&type=Date)](https://star-history.com/#caddyserver/caddy,envoyproxy/envoy,flomesh-io/pipy,haproxy/haproxy,linuxserver/docker-swag,NginxProxyManager/nginx-proxy-manager,tinyproxy/tinyproxy,traefik/traefik,umputun/reproxy&Date)
+
+</details>
+
+### Search and File Finding Tools
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BurntSushi/ripgrep%2Cjunegunn/fzf&type=Date)](https://star-history.com/#BurntSushi/ripgrep,junegunn/fzf&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=beyondgrep/ack3%2CBurntSushi/ripgrep%2Cggreer/the_silver_searcher%2Cjunegunn/fzf%2Csharkdp/fd&type=Date)](https://star-history.com/#beyondgrep/ack3,BurntSushi/ripgrep,ggreer/the_silver_searcher,junegunn/fzf,sharkdp/fd&Date)
+
+</details>
+
+### Testing and Automation Tools
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cypress-io/cypress%2Cmicrosoft/playwright%2Cpuppeteer/puppeteer&type=Date)](https://star-history.com/#cypress-io/cypress,microsoft/playwright,puppeteer/puppeteer&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AutomaApp/automa%2Ccypress-io/cypress%2CDevExpress/testcafe%2Ckeploy/keploy%2Claravel/dusk%2Cmicrosoft/playwright%2Cnightwatchjs/nightwatch%2Cpuppeteer/puppeteer%2CSeleniumHQ/selenium&type=Date)](https://star-history.com/#AutomaApp/automa,cypress-io/cypress,DevExpress/testcafe,keploy/keploy,laravel/dusk,microsoft/playwright,nightwatchjs/nightwatch,puppeteer/puppeteer,SeleniumHQ/selenium&Date)
+
+</details>
+
+### Version Managers
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=asdf-vm/asdf%2Cnvm-sh/nvm%2Cpyenv/pyenv&type=Date)](https://star-history.com/#asdf-vm/asdf,nvm-sh/nvm,pyenv/pyenv&Date)
+
+
+<details>
+<summary>All</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=asdf-vm/asdf%2Cjdx/mise%2Cjenv/jenv%2Cmoovweb/gvm%2Cnvm-sh/nvm%2Cpyenv/pyenv%2Crbenv/rbenv%2CSchniz/fnm&type=Date)](https://star-history.com/#asdf-vm/asdf,jdx/mise,jenv/jenv,moovweb/gvm,nvm-sh/nvm,pyenv/pyenv,rbenv/rbenv,Schniz/fnm&Date)
+
+</details>
+
+### Web-Frameworks and Libraries
+
+#### Most Popular
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=angularjs/angularjs%2Cexpressjs/express%2Cnestjs/nest%2Csveltejs/svelte%2Cvercel/next.js&type=Date)](https://star-history.com/#angularjs/angularjs,expressjs/express,nestjs/nest,sveltejs/svelte,vercel/next.js&Date)
+
+
+<details>
+<summary>Backend</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=expressjs/express%2Cfastify/fastify%2Chapijs/hapi%2Ckoajs/koa%2Cnestjs/nest&type=Date)](https://star-history.com/#expressjs/express,fastify/fastify,hapijs/hapi,koajs/koa,nestjs/nest&Date)
+
+</details>
+
+<details>
+<summary>Frontend</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alpinejs/alpine%2Cbigskysoftware/htmx%2CBuilderIO/qwik%2Cngrx/platform%2Cquasarframework/quasar%2Creduxjs/redux%2Csveltejs/svelte%2Cuikit/uikit%2Cvercel/next.js&type=Date)](https://star-history.com/#alpinejs/alpine,bigskysoftware/htmx,BuilderIO/qwik,ngrx/platform,quasarframework/quasar,reduxjs/redux,sveltejs/svelte,uikit/uikit,vercel/next.js&Date)
+
+</details>
+
+<details>
+<summary>Full-Stack</summary>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=balderdashy/sails%2Cderbyjs/derby%2Cmeteor/meteor&type=Date)](https://star-history.com/#balderdashy/sails,derbyjs/derby,meteor/meteor&Date)
+
+</details>
+
+<!-- END_CHARTS -->
 
 ## Contributing
 

@@ -1,0 +1,270 @@
+Animation Libraries:
+  Most Popular:
+    - framer/motion
+    - greensock/GSAP
+    - juliangarnier/anime
+  All:
+    - d3/d3
+    - Famous/engine
+    - framer/motion
+    - greensock/GSAP
+    - hrivingKings/animo
+    - juliangarnier/anime
+    - motiondivision/motionone
+    - visionmedia/move.js
+
+API Frameworks:
+  Most Popular:
+    - grpc/grpc
+    - tiangolo/fastapi
+  All:
+    - grpc/grpc
+    - tiangolo/fastapi
+    - trpc/trpc
+
+Build Tools and Bundlers:
+  Most Popular:
+    - evanw/esbuild
+    - vitejs/vite
+    - webpack/webpack
+  All:
+    - evanw/esbuild
+    - gulpjs/gulp
+    - gruntjs/grunt
+    - parcel-bundler/parcel
+    - rollup/rollup
+    - vitejs/vite
+    - webpack/webpack
+
+Code Editors and IDEs:
+  Most Popular:
+    - atom/atom
+    - soft/vscode
+    - vim/vim
+  All:
+    - adobe/brackets
+    - apache/netbeans
+    - atom/atom
+    - eclipse/che
+    - eclipse/pdt
+    - eranif/codelite
+    - Komodo/KomodoEdit
+    - soft/vscode
+    - vim/vim
+
+CSS Preprocessors:
+  Most Popular:
+    - postcss/postcss
+    - sass/sass
+  All:
+    - less/less.js
+    - postcss/postcss
+    - sass/sass
+    - stylus/stylus
+
+Database and Backend-as-a-Service:
+  Most Popular:
+    - mongodb/mongo
+    - redis/redis
+    - supabase/supabase
+  All:
+    - arangodb/arangodb
+    - back4app/parse-server
+    - kuzzleio/kuzzle
+    - mongodb/mongo
+    - parse-community/parse-server
+    - redis/redis
+    - supabase/supabase
+
+E-commerce Platforms:
+  Most Popular:
+    - magento/magento2
+    - medusajs/medusa
+    - saleor/saleor
+    - spree/spree
+    - woocommerce/woocommerce
+  Headless:
+    - medusajs/medusa
+    - reactioncommerce/reaction
+    - saleor/saleor
+    - vendure-ecommerce/vendure
+  Laravel:
+    - aimeos/aimeos-laravel
+    - avored/laravel-ecommerce
+    - bagisto/bagisto
+  Traditional:
+    - magento/magento2
+    - solidusio/solidus
+    - spree/spree
+    - thelia/thelia
+    - woocommerce/woocommerce
+
+Headless CMS and Backend Frameworks:
+  Most Popular:
+    - directus/directus
+    - hasura/graphql-engine
+    - strapi/strapi
+  All:
+    - amplication/amplication
+    - appwrite/appwrite
+    - directus/directus
+    - hasura/graphql-engine
+    - keystonejs/keystone
+    - strapi/strapi
+
+Mail Server:
+  Most Popular:
+    - docker-mailserver/docker-mailserver
+    - mail-in-a-box/mailinabox
+  All:
+    - docker-mailserver/docker-mailserver
+    - iredmail/iRedMail
+    - mailcow/mailcow-dockerized
+    - mail-in-a-box/mailinabox
+    - Mailu/Mailu
+    - modoboa/modoboa
+    - nodemailer/wildduck
+    - postalserver/postal
+    - stalwartlabs/mail-server
+
+Mobile App Frameworks:
+  Most Popular:
+    - facebook/react-native
+    - flutter/flutter
+  All:
+    - apache/cordova
+    - facebook/react-native
+    - flutter/flutter
+    - ionic-team/ionic-framework
+    - quasarframework/quasar
+    - xamarin/xamarin-macios
+
+PaaS and Deployment Tools:
+  Most Popular:
+    - appwrite/appwrite
+    - dokku/dokku
+    - localstack/localstack
+  All:
+    - appwrite/appwrite
+    - caprover/caprover
+    - cloud-ark/kubeplus
+    - cloudpanel-io/cloudpanel-ce
+    - coollabsio/coolify
+    - dokku/dokku
+    - harvester/harvester
+    - kubero-dev/kubero
+    - loft-sh/devpod
+    - localstack/localstack
+    - metrue/fx
+    - openfaas/faas
+
+Package Managers:
+  Most Popular:
+    - npm/cli
+    - pnpm/pnpm
+    - yarnpkg/berry
+  All:
+    - denoland/deno
+    - nodejs/node
+    - npm/cli
+    - oven-sh/bun
+    - pnpm/pnpm
+    - yarnpkg/berry
+
+Parallax and Scroll Libraries:
+  Most Popular:
+    - dixonandmoe/rellax
+    - janpaepke/ScrollMagic
+  All:
+    - ChrisCavs/rallax.js
+    - dixonandmoe/rellax
+    - electerious/basicScroll
+    - geosigno/simpleParallax.js
+    - janpaepke/ScrollMagic
+    - nk-o/jarallax
+
+Proxy and Load-Balancing Tools:
+  Most Popular:
+    - caddyserver/caddy
+    - envoyproxy/envoy
+    - traefik/traefik
+  All:
+    - caddyserver/caddy
+    - envoyproxy/envoy
+    - flomesh-io/pipy
+    - haproxy/haproxy
+    - linuxserver/docker-swag
+    - NginxProxyManager/nginx-proxy-manager
+    - tinyproxy/tinyproxy
+    - traefik/traefik
+    - umputun/reproxy
+
+Search and File Finding Tools:
+  Most Popular:
+    - BurntSushi/ripgrep
+    - junegunn/fzf
+  All:
+    - beyondgrep/ack3
+    - BurntSushi/ripgrep
+    - ggreer/the_silver_searcher
+    - junegunn/fzf
+    - sharkdp/fd
+
+Testing and Automation Tools:
+  Most Popular:
+    - cypress-io/cypress
+    - microsoft/playwright
+    - puppeteer/puppeteer
+  All:
+    - AutomaApp/automa
+    - cypress-io/cypress
+    - DevExpress/testcafe
+    - keploy/keploy
+    - laravel/dusk
+    - microsoft/playwright
+    - nightwatchjs/nightwatch
+    - puppeteer/puppeteer
+    - SeleniumHQ/selenium
+
+Version Managers:
+  Most Popular:
+    - asdf-vm/asdf
+    - nvm-sh/nvm
+    - pyenv/pyenv
+  All:
+    - asdf-vm/asdf
+    - jdx/mise
+    - jenv/jenv
+    - moovweb/gvm
+    - nvm-sh/nvm
+    - pyenv/pyenv
+    - rbenv/rbenv
+    - Schniz/fnm
+
+Web-Frameworks and Libraries:
+  Most Popular:
+    - angularjs/angularjs
+    - expressjs/express
+    - nestjs/nest
+    - sveltejs/svelte
+    - vercel/next.js
+  Backend:
+    - expressjs/express
+    - fastify/fastify
+    - hapijs/hapi
+    - koajs/koa
+    - nestjs/nest
+  Frontend:
+    - alpinejs/alpine
+    - bigskysoftware/htmx
+    - BuilderIO/qwik
+    - ngrx/platform
+    - quasarframework/quasar
+    - reduxjs/redux
+    - sveltejs/svelte
+    - uikit/uikit
+    - vercel/next.js
+  Full-Stack:
+    - balderdashy/sails
+    - derbyjs/derby
+    - meteor/meteor
