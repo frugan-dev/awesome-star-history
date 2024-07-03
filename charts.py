@@ -1,6 +1,5 @@
 import yaml
 import urllib.parse
-import json
 
 def generate_chart_markdown(category, subcategory, repos, is_first=False):
     repo_list = ",".join(repos)
@@ -8,15 +7,14 @@ def generate_chart_markdown(category, subcategory, repos, is_first=False):
     chart_url = f"https://api.star-history.com/svg?repos={encoded_repos}&type=Date"
     star_history_url = f"https://star-history.com/#{repo_list}&Date"
     
-    chart_data = json.dumps({
-        "chartUrl": chart_url,
-        "starHistoryUrl": star_history_url
-    })
+    chart_md = f"""
+[![Star History Chart]({chart_url})]({star_history_url})
+"""
     
     details = f"""
 <details>
 <summary>{subcategory}</summary>
-<div class="chart-container" data-chart='{chart_data}'></div>
+{chart_md}
 </details>
 """
 
@@ -44,7 +42,6 @@ def main():
     with open('README.md', 'r') as file:
         readme_content = file.read()
 
-    # Trova la sezione dei grafici e sostituiscila
     start_marker = "<!-- START_CHARTS -->"
     end_marker = "<!-- END_CHARTS -->"
     new_content = f"{start_marker}\n{charts_markdown}\n{end_marker}"
