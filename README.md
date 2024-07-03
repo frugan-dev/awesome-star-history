@@ -22,11 +22,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Animation Libraries
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=framer/motion%2Cgreensock/GSAP%2Cjuliangarnier/anime&type=Date)](https://star-history.com/#framer/motion,greensock/GSAP,juliangarnier/anime&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -38,11 +40,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### API Frameworks
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=grpc/grpc%2Ctiangolo/fastapi&type=Date)](https://star-history.com/#grpc/grpc,tiangolo/fastapi&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -54,11 +58,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Build Tools and Bundlers
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=evanw/esbuild%2Cvitejs/vite%2Cwebpack/webpack&type=Date)](https://star-history.com/#evanw/esbuild,vitejs/vite,webpack/webpack&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -70,11 +76,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Code Editors and IDEs
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=atom/atom%2Csoft/vscode%2Cvim/vim&type=Date)](https://star-history.com/#atom/atom,soft/vscode,vim/vim&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -86,11 +94,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### CSS Preprocessors
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=postcss/postcss%2Csass/sass&type=Date)](https://star-history.com/#postcss/postcss,sass/sass&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -102,11 +112,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Database and Backend-as-a-Service
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mongodb/mongo%2Credis/redis%2Csupabase/supabase&type=Date)](https://star-history.com/#mongodb/mongo,redis/redis,supabase/supabase&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -118,11 +130,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### E-commerce Platforms
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=magento/magento2%2Cmedusajs/medusa%2Csaleor/saleor%2Cspree/spree%2Cwoocommerce/woocommerce&type=Date)](https://star-history.com/#magento/magento2,medusajs/medusa,saleor/saleor,spree/spree,woocommerce/woocommerce&Date)
 
+</details>
 
 <details>
 <summary>Headless</summary>
@@ -150,11 +164,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Headless CMS and Backend Frameworks
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=directus/directus%2Chasura/graphql-engine%2Cstrapi/strapi&type=Date)](https://star-history.com/#directus/directus,hasura/graphql-engine,strapi/strapi&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -166,11 +182,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Mail Server
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=docker-mailserver/docker-mailserver%2Cmail-in-a-box/mailinabox&type=Date)](https://star-history.com/#docker-mailserver/docker-mailserver,mail-in-a-box/mailinabox&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -182,11 +200,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Mobile App Frameworks
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=facebook/react-native%2Cflutter/flutter&type=Date)](https://star-history.com/#facebook/react-native,flutter/flutter&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -198,11 +218,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### PaaS and Deployment Tools
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=appwrite/appwrite%2Cdokku/dokku%2Clocalstack/localstack&type=Date)](https://star-history.com/#appwrite/appwrite,dokku/dokku,localstack/localstack&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -214,11 +236,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Package Managers
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=npm/cli%2Cpnpm/pnpm%2Cyarnpkg/berry&type=Date)](https://star-history.com/#npm/cli,pnpm/pnpm,yarnpkg/berry&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -230,11 +254,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Parallax and Scroll Libraries
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dixonandmoe/rellax%2Cjanpaepke/ScrollMagic&type=Date)](https://star-history.com/#dixonandmoe/rellax,janpaepke/ScrollMagic&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -246,11 +272,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Proxy and Load-Balancing Tools
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=caddyserver/caddy%2Cenvoyproxy/envoy%2Ctraefik/traefik&type=Date)](https://star-history.com/#caddyserver/caddy,envoyproxy/envoy,traefik/traefik&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -262,11 +290,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Search and File Finding Tools
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=BurntSushi/ripgrep%2Cjunegunn/fzf&type=Date)](https://star-history.com/#BurntSushi/ripgrep,junegunn/fzf&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -278,11 +308,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Testing and Automation Tools
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cypress-io/cypress%2Cmicrosoft/playwright%2Cpuppeteer/puppeteer&type=Date)](https://star-history.com/#cypress-io/cypress,microsoft/playwright,puppeteer/puppeteer&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -294,11 +326,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Version Managers
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=asdf-vm/asdf%2Cnvm-sh/nvm%2Cpyenv/pyenv&type=Date)](https://star-history.com/#asdf-vm/asdf,nvm-sh/nvm,pyenv/pyenv&Date)
 
+</details>
 
 <details>
 <summary>All</summary>
@@ -310,11 +344,13 @@ Feel free to contribute by adding new comparisons or updating existing ones. You
 
 ### Web-Frameworks and Libraries
 
-#### Most Popular
+<details open>
+<summary>Most Popular</summary>
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=angularjs/angularjs%2Cexpressjs/express%2Cnestjs/nest%2Csveltejs/svelte%2Cvercel/next.js&type=Date)](https://star-history.com/#angularjs/angularjs,expressjs/express,nestjs/nest,sveltejs/svelte,vercel/next.js&Date)
 
+</details>
 
 <details>
 <summary>Backend</summary>
