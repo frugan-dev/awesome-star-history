@@ -15,9 +15,11 @@ def generate_chart_markdown(category, subcategory, repos, is_first=False):
         return f"""
 ### {category}
 
-#### {subcategory}
+<details open>
+<summary>{subcategory}</summary>
 
 {chart_md}
+</details>
 """
     else:
         return f"""
