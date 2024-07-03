@@ -8,15 +8,13 @@ def generate_chart_markdown(category, subcategory, repos, is_first=False):
     chart_url = f"https://api.star-history.com/svg?repos={encoded_repos}&type=Date"
     star_history_url = f"https://star-history.com/#{url_repo_list}&Date"
     
-    anchor_id = f"{category.lower().replace(' ', '-')}-{subcategory.lower().replace(' ', '-')}"
-    
     chart_md = f"""
 [![Star History Chart]({chart_url})]({star_history_url})
 """
     
     details = f"""
 <details>
-<summary><a href="#{anchor_id}" onclick="this.closest('details').open = true;">{subcategory}</a></summary>
+<summary>{subcategory}</summary>
 {chart_md}
 </details>
 """
